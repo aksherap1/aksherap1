@@ -2,9 +2,9 @@
 
 ### EDUCATION
 
-**University of California Santa Cruz, Santa Cruz, CA**                                                                       September 2024 – Present
-
-**Bachelor of Science in Electrical Engineering B.S., Minor in Astrophysics**                                            Expected Graduation June 2028
+**University of California Santa Cruz, Santa Cruz, CA**                                                                       
+*September 2024 – Expected Graduation June 2028*
+***Bachelor of Science in Electrical Engineering B.S., Minor in Astrophysics***                                            
 
 **GPA: 3.73/4.0**
 
