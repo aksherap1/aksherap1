@@ -14,8 +14,9 @@
 
 ### PROJECTS
 
-**SSCS Arduino Contest - IEEE Project, (Hybrid)**  _(Repo owned by teammate: IndiraMariya/ArduinoContest)_
-*April 2025 – August 2025*
+**Arduino Contest Project**  
+*(Repo owned by teammate: IndiraMariya/ArduinoContest)*  
+April 2025 – August 2025
 
 - Developed a wearable audio-to-haptic device using FFT and motor control to improve accessibility
 - Implemented real-time C signal processing with analog filtering and UART/I²C for reliable performance
