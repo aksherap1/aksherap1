@@ -12,7 +12,7 @@
 
 ---
 
-# EXPERIENCE
+### EXPERIENCE
 
 **Learning Support Services Tutor (Hybrid)**                                                                                     *Sept 2025 – Present*
 ***Large Group Tutor/Individual Tutor***
@@ -55,7 +55,10 @@ proposal teams
 
 I am seeking electrical engineering internships that emphasize hands-on system design and implementation, while remaining open to exploring a wide range of electrical engineering applications.
 
-# CONTACT
+### CONTACT
 • Linkedln: https://www.linkedin.com/in/akshera-paladhi/
 
 • Email: akshera.paladhi28@gmail.com
+
+---
+
