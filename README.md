@@ -41,6 +41,6 @@ matrices, conducting trade studies, and creating CAD designs in Siemens NX
 
 I am looking for electrical engineering internships where I can get hands on experience to anything from circuits, senosrs, to maybe even building robots
 
-#CONTACT
+# CONTACT
 • Linkedln: https://www.linkedin.com/in/akshera-paladhi/
 • Email: akshera.paladhi28@gmail.com
