@@ -22,8 +22,6 @@ level logic, data structures, and system design to improve retention and applied
 - Providing one-on-one tutoring in Linear Algebra to strengthen conceptual reasoning in vector spaces, eigenvalues, and matrix
 computation for the student
 
----
-
 **UC Santa Cruz Quantum Computing (Hybrid)**                                                                                   *August 2025 – Present*
 
 ***Vice President/Researcher***
@@ -51,13 +49,18 @@ matrices, conducting trade studies, and creating CAD designs in Siemens NX
 - Reviewed NASA solicitation proposals, evaluating submissions against rubric criteria and providing structured feedback to
 proposal teams
 
+---
+
 # OPEN TO OPPURTUNITIES IN
 
 I am seeking electrical engineering internships that emphasize hands-on system design and implementation, while remaining open to exploring a wide range of electrical engineering applications.
 
+---
+
 ### CONTACT
-• Linkedln: https://www.linkedin.com/in/akshera-paladhi/
-• Email: akshera.paladhi28@gmail.com
+
+- Linkedln: https://www.linkedin.com/in/akshera-paladhi/
+- Email: akshera.paladhi28@gmail.com
 
 ---
 
