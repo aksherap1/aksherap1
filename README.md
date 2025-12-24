@@ -64,7 +64,7 @@ proposal teams
 
 ### OPEN TO OPPURTUNITIES IN
 
-I am seeking electrical engineering internships that emphasize hands-on system design and implementation, while remaining open to exploring a wide range of electrical engineering applications.
+I am seeking electrical engineering internships that emphasize in building autonomous sensing systems that combine robotics, embedded hardware, and software to collect reliable data in complex real-world environments.
 
 ---
 
