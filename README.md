@@ -60,6 +60,12 @@ matrices, conducting trade studies, and creating CAD designs in Siemens NX
 - Reviewed NASA solicitation proposals, evaluating submissions against rubric criteria and providing structured feedback to
 proposal teams
 
+**U•MATTR**  
+*August 2023 - March 2024*
+
+- Collaborated with a 2 member team in the Tech Advisory to remodel the organization's website using programming languages-JavaScript, HTML, & CSS
+- Coordinated with the entire team of 15+ members to promote mental health awareness & establish more branches in other schools
+
 ---
 
 ### OPEN TO OPPURTUNITIES IN
