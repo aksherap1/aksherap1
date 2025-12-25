@@ -22,7 +22,20 @@ April 2025 – August 2025
 - Implemented real-time C signal processing with analog filtering and UART/I²C for reliable performance
 - Led hardware and software integration and testing to validate system accuracy
 - Designed motor driver and audio circuits, applying power and small-signal analysis collaboratively
-- Project Link: https://www.youtube.com/watch?v=vuFymUGJiVI 
+- Project Link: https://www.youtube.com/watch?v=vuFymUGJiVI
+
+**BattleBoats Project**  
+May 2025 - June 2025
+
+- Designed a Battleship-style multiplayer game on a 32-bit Microchip PIC32, implementing game logic in C and wiring hardware for player input/output
+- Tested and debugged system performance, strengthening skills in embedded C, hardware–software integration, and troubleshooting
+
+**AI Model**  
+June 2023 - September 2023
+
+- Collaborated w/a UIUC college student to design an AI model to detect phishing emails
+- Researched topics on neural networks & natural language processing
+- Expanded my skills on topics-Python, AI, & Cybersecurity
 
 ---
 
