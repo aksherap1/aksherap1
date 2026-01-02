@@ -14,7 +14,7 @@
 
 ### PROJECTS
 
-**Air Mouse (ESP32 + MPU-6050)**
+**Air Mouse (ESP32 + MPU-6050)**  
 December 2025 - Present
 
 - Developed a motion-controlled wireless mouse using an ESP32 and MPU-6050 gyroscope/accelerometer
