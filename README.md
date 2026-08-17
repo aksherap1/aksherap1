@@ -73,6 +73,12 @@ June 2023 - September 2023
 
 ### EXPERIENCE
 
+**Citrus Drone Initiative for Drone Education and Research Internship**                                                                     *Jun 2026 – Present*
+
+- Designed airframes and mounts in Onshape and SolidWorks, optimizing CAD models for rapid 3D printing (Bambu Lab, PrusaSlicer). 
+- Assembled, wired, and soldered flight hardware and power distribution systems for custom multicopter testbeds. 
+- Earned FAA Part 107 Remote Pilot Certification and performed board soldering and hardware rework to maintain research drones for group flights.
+
 **Learning Support Services Large Group Tutor/Individual Tutor (Hybrid)**                                                                
 *Sept 2025 – Present*
 
