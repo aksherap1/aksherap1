@@ -73,7 +73,8 @@ Jun 2023 - Sep 2023
 
 ### EXPERIENCE
 
-**CITRIS Drone Initiative for Drone Education and Research Internship**                                                                     *Jun 2026 – Present*
+**CITRIS Drone Initiative for Drone Education and Research Internship**                                                                     
+*Jun 2026 – Present*
 
 - Designed airframes and mounts in Onshape and SolidWorks, optimizing CAD models for rapid 3D printing (Bambu Lab, PrusaSlicer). 
 - Assembled, wired, and soldered flight hardware and power distribution systems for custom multicopter testbeds. 
