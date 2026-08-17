@@ -19,17 +19,20 @@ Jun 2026 – Present
 - Conducting static FEA, vibration analysis, and kinematic calculations to validate dynamic stability and acoustic performance. 
 - Engineering custom 2-layer PCBs in KiCad featuring ESP32-S3 microcontrollers, discrete power electronics, and DC-DC voltage regulation stages for reliable multi-actuator power delivery.
 
-**Autonomous Drone Warehouse Surveyor**   	                    	        	                                                                Jun 2026 – Present 
+**Autonomous Drone Warehouse Surveyor**				                   
+Jun 2026 – Present  
 - Designing custom multicopter CAD geometry in SolidWorks with integrated forward and downward camera mounts. 
 - Setting up physics, mass properties, and collision primitives in NVIDIA Isaac Sim via USD/URDF conversion.
 - Scripting autonomous waypoint navigation, thruster controls, and camera feeds using Omniverse ActionGraph. 
 
-**Air Mouse (ESP32 + MPU-6050)**    	                    	        	                                                                      Dec 2025 – Jan 2026
+**Air Mouse (ESP32 + MPU-6050)**				                   
+Dec 2025 – Jan 2026
 - Developing a wireless motion-controlled robotics interface using an ESP32 microcontroller and MPU-6050 IMU.
 - Implemented sensor fusion and custom filtering algorithms in C to translate real-time inertial data into precise navigation via Bluetooth HID integration.
 - Designed a custom PCB in KiCad and executing precision SMD soldering to deliver production-ready hardware.
 
-**Osmosis Digital Logic Game**                                                                                                              May 2026 – Jun 2026
+**Osmosis Digital Logic Game**				                   
+May 2026 – June 2026                                                                                                             
 - Designed and implemented a real-time, state-driven physics game in VHDL simulating molecular osmosis across a membrane barrier. 
 - Formulated a synchronous finite state machine (FSM) utilizing sequential D flip-flop arrays to track, update, and remember the positional coordinate and color data for multiple independent objects simultaneously. 
 - Engineered custom video display driver logic by mastering horizontal and vertical timing constraints, sync signals, and pixel-generation windows to render dynamic color sorting states on a display without visual artifacts.
