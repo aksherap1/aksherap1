@@ -91,7 +91,7 @@ proposal teams
 
 ### OPEN TO OPPURTUNITIES IN
 
-I am seeking electrical engineering internships that emphasize in building autonomous sensing systems that combine robotics, embedded hardware, and software to collect reliable data in complex real-world environments.
+I am seeking aerospace-focused electrical engineering internships where I can contribute to autonomous sensing systems. My primary interest lies at the intersection of embedded hardware, robotics, and software, specifically designing robust instrumentation to capture reliable data in real-world environments.
 
 ---
 
