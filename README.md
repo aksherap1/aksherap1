@@ -6,7 +6,7 @@
 *September 2024 – Expected Graduation June 2028*
 
 ***Bachelor of Science in Electrical Engineering B.S., Minor in Astrophysics***                                            
-**GPA: 3.73/4.0**
+**GPA: 3.58/4.0**
 
 • **Relevant Coursework**: Computer Systems and Assembly Language, Modern Electronics, Introduction to Physics I, Computer Systems and C Programming, Linear Algebra, Vector Calculus, Python Programming, Introduction to Probability Theory, Physics III Introduction to Electricity and Magnetism, Introduction to Scientific Computing
 
@@ -38,7 +38,7 @@ May 2026 – June 2026
 - Engineered custom video display driver logic by mastering horizontal and vertical timing constraints, sync signals, and pixel-generation windows to render dynamic color sorting states on a display without visual artifacts.
 
 **Air Mouse (ESP32 + MPU-6050)**  
-December 2025 - Present
+Dec 2025 - Present
 
 - Developed a motion-controlled wireless mouse using an ESP32 and MPU-6050 gyroscope/accelerometer.
 - Implemented BLE HID communication, gyro calibration, moving average filtering, and adjustable sensitivity/deadzone for smooth, stable cursor control.
@@ -47,7 +47,7 @@ December 2025 - Present
 
 **Arduino Contest Project**  
 *(Repo owned by teammate: IndiraMariya/ArduinoContest)*  
-April 2025 – August 2025
+Apr 2025 – Aug 2025
 
 - Developed a wearable audio-to-haptic device using FFT and motor control to improve accessibility.
 - Implemented real-time C signal processing with analog filtering and UART/I²C for reliable performance.
@@ -56,14 +56,14 @@ April 2025 – August 2025
 - Project Link: https://www.youtube.com/watch?v=vuFymUGJiVI
 
 **BattleBoats Project**  
-May 2025 - June 2025
+May 2025 - Jun 2025
 
 - Engineered a two-player battleship game in Embedded C, utilizing a custom UART serial communication protocol to sync real-time telemetry and data packets between decoupled microcontroller nodes. 
 - Designed a strict synchronous Finite State Machine (FSM) with secure packet framing and hashed validation keys to handle timing, coordinate state transitions, and prevent data corruption. 
 - Conducted circuit-level debugging using oscilloscopes and logic analyzers to capture raw serial streams, verify voltage level matching, and resolve hardware timing jitter.
 
 **AI Model**  
-June 2023 - September 2023
+Jun 2023 - Sep 2023
 
 - Collaborated w/a UIUC college student to design an AI model to detect phishing emails.
 - Researched topics on neural networks & natural language processing.
@@ -80,7 +80,7 @@ June 2023 - September 2023
 - Earned FAA Part 107 Remote Pilot Certification and performed board soldering and hardware rework to maintain research drones for group flights.
 
 **Learning Support Services Large Group Tutor/Individual Tutor (Hybrid)**                                                                
-*Sept 2025 – Present*
+*Sep 2025 – Present*
 
 - Leading weekly tutoring sessions for 5+ students in CSE 12 (Computer Systems & Assembly Language), reinforcing low-
 level logic, data structures, and system design to improve retention and applied understanding.
@@ -88,7 +88,7 @@ level logic, data structures, and system design to improve retention and applied
 computation for the student.
 
 **UC Santa Cruz Quantum Computing (Hybrid) Vice President**                                                               
-*August 2025 – Present*
+*Aug 2025 – Present*
 
 - Organizing weekly technical workshops and events for 20+ student members, introducing practical applications of quantum
 algorithms.
@@ -96,7 +96,7 @@ algorithms.
 learning research project comparing quantum neural networks (QNNs) vs. Deep Neural Networks (DNNs).
 
 **UC Santa Cruz Institute of Particle Physics (SCIPP) Undergraduate Researcher (Hybrid)**  
-*June 2025 – Present*
+*Jun 2025 – Present*
 
 - Developing embedded C/C++ firmware for STM32 with UART/I²C for real-time data acquisition.
 - Debugging hardware and software systems using oscilloscopes, logic analyzers, and multimeters.
@@ -104,7 +104,7 @@ learning research project comparing quantum neural networks (QNNs) vs. Deep Neur
 - Contributing to a Git-managed codebase, following professional collaboration practices.
 
 **L’Space Nasa’s Proposal Writing and Evaluation Experience Research Participant (Workforce Preparation) (Remote)**                            
-*May 2025 – August 2025*
+*May 2025 – Aug 2025*
 
 - Served as Scientist on a student team in NASA’s Workforce Preparation Academy, developing science goals and traceability
 matrices, conducting trade studies, and creating CAD designs in Siemens NX.
@@ -112,7 +112,7 @@ matrices, conducting trade studies, and creating CAD designs in Siemens NX.
 proposal teams.
 
 **U•MATTR**  
-*August 2023 - March 2024*
+*Aug 2023 - Mar 2024*
 
 - Collaborated with a 2 member team in the Tech Advisory to remodel the organization's website using programming languages-JavaScript, HTML, & CSS.
 - Coordinated with the entire team of 15+ members to promote mental health awareness & establish more branches in other schools.
