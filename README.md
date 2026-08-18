@@ -37,6 +37,16 @@ May 2026 – June 2026
 - Formulated a synchronous finite state machine (FSM) utilizing sequential D flip-flop arrays to track, update, and remember the positional coordinate and color data for multiple independent objects simultaneously. 
 - Engineered custom video display driver logic by mastering horizontal and vertical timing constraints, sync signals, and pixel-generation windows to render dynamic color sorting states on a display without visual artifacts.
 
+**Stop It Digital Logic Game**				                   
+Apr 2026 – May 2026
+- Designed and synthesized a real-time digital reaction game on a Xilinx FPGA in Verilog, integrating hierarchical RTL submodules and low-level FDRE flip-flop primitives.
+- Implemented an 8-bit Fibonacci Linear Feedback Shift Register (LFSR) with multi-tap XOR feedback to generate pseudo-random 7-segment display targets.
+- Built a synchronous 7-state Moore Finite State Machine using one-hot state encoding to control game progression, dynamic timer resets, and score-tracking states.
+- Designed modular datapath units, including a 16-bit bidirectional LED score shifter and a cascaded 6-bit down-counter utilizing full/half-adder arithmetic blocks.
+- Verified state transitions, timing corners, and edge-case behaviors (win/loss detection, LFSR lockup prevention) via testbench waveforms in Vivado before hardware deployment.
+
+Skills: Verilog
+
 **Air Mouse (ESP32 + MPU-6050)**  
 Dec 2025 - Present
 
