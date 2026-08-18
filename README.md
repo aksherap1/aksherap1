@@ -45,8 +45,6 @@ Apr 2026 – May 2026
 - Designed modular datapath units, including a 16-bit bidirectional LED score shifter and a cascaded 6-bit down-counter utilizing full/half-adder arithmetic blocks.
 - Verified state transitions, timing corners, and edge-case behaviors (win/loss detection, LFSR lockup prevention) via testbench waveforms in Vivado before hardware deployment.
 
-Skills: Verilog
-
 **Air Mouse (ESP32 + MPU-6050)**  
 Dec 2025 - Present
 
