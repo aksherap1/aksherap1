@@ -25,12 +25,6 @@ Jun 2026 – Present
 - Setting up physics, mass properties, and collision primitives in NVIDIA Isaac Sim via USD/URDF conversion.
 - Scripting autonomous waypoint navigation, thruster controls, and camera feeds using Omniverse ActionGraph. 
 
-**Air Mouse (ESP32 + MPU-6050)**				                   
-Dec 2025 – Jan 2026
-- Developing a wireless motion-controlled robotics interface using an ESP32 microcontroller and MPU-6050 IMU.
-- Implemented sensor fusion and custom filtering algorithms in C to translate real-time inertial data into precise navigation via Bluetooth HID integration.
-- Designed a custom PCB in KiCad and executing precision SMD soldering to deliver production-ready hardware.
-
 **Osmosis Digital Logic Game**				                   
 May 2026 – June 2026                                                                                                             
 - Designed and implemented a real-time, state-driven physics game in VHDL simulating molecular osmosis across a membrane barrier. 
@@ -46,7 +40,7 @@ Apr 2026 – May 2026
 - Verified state transitions, timing corners, and edge-case behaviors (win/loss detection, LFSR lockup prevention) via testbench waveforms in Vivado before hardware deployment.
 
 **Air Mouse (ESP32 + MPU-6050)**  
-Dec 2025 - Present
+Dec 2025 - Jan 2026
 
 - Developed a motion-controlled wireless mouse using an ESP32 and MPU-6050 gyroscope/accelerometer.
 - Implemented BLE HID communication, gyro calibration, moving average filtering, and adjustable sensitivity/deadzone for smooth, stable cursor control.
